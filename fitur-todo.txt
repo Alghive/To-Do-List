@@ -3,3 +3,4 @@ Fitur mini proyek ini berisi:
 - Hapus Kegiatan
 - Edit kegiatan (belum)
 - Tambah Schedule Kegiatan (belum)
+- Tambah Date Kegiatan (belum)

@@ -1,0 +1,6 @@
+Create a news project
+Addition fiturs are:
+- CRUD
+- Schedule
+- etc
+Note: creating using framework
