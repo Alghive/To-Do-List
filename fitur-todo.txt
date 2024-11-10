@@ -1,3 +1,4 @@
 Fitur mini proyek ini berisi:
 - Tambah Kegiatgan
 - Hapus Kegiatan
+- Edit kegiatan (belum)
