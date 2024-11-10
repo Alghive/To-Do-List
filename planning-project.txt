@@ -1,6 +1,9 @@
 Create a news project
 Addition fiturs are:
 - CRUD
+^ Add dropdown
+^ Add select-option
+
 - Schedule
 - etc
 Note: creating using framework
